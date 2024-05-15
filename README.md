@@ -2,7 +2,7 @@
     <picture>
         <source media="(prefers-color-scheme: light)" srcset=".github/wagtail.svg">
         <source media="(prefers-color-scheme: dark)" srcset=".github/wagtail-inverse.svg">
-        <img width="343" src=".github/wagtail.svg" alt="Wagtail">
+        <img width="343" src="https://raw.githubusercontent.com/wagtail/wagtail/main/.github/wagtail.svg" alt="Wagtail">
     </picture>
 </h1>
 <p align="center">
